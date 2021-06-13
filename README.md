@@ -2,7 +2,7 @@
 
 App.R is the main source code.
 
-www folder contains all the images and gifs that need displayed in the application.
+www folder contains all the images and gifs that is displayed in the application.
 
 data 1 is the excel file used to display the BMI World Map.
 
