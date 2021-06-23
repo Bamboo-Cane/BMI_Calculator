@@ -1,7 +1,6 @@
 # BMI_Calculator
 
-Access the application from the link below:
-https://imranasyraaf.shinyapps.io/maps/
+Access the application here: https://imranasyraaf.shinyapps.io/maps/
 
 'App.R' is the main source code.
 
